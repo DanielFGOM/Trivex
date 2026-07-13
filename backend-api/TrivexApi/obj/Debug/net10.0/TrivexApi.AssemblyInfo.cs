@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrivexApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b622ef8e7d9692a4f21cfdbbf5a67a208f23a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62763c3af24b404b987f8938bf797d256df61658")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrivexApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrivexApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
